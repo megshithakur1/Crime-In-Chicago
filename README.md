@@ -16,6 +16,14 @@ In this project, I will try to interpret the number of street crimes that happen
 
 ## 4.	Methods and Processes
 
+In this project, our main is to apply different techniques to model the time series data for ‘Number of street crimes in Chicago’ in order to evaluated their fit and choosing the best model which can forecast values for October and November 2016. <br />
+Below is the given data: 
+
+### Model 1: Using moving average decomposition model
+Starting with the moving average decomposition model which is also smoothing model. This model has two types: additive and multiplicative. We will apply both the models and then compare their results. The models applied are indicated with red line on the plotted data: <br />
+
+
+
 
 
 
