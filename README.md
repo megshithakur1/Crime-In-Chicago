@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 My application is inspired by the rising crime throughout the USA. A question to ask: Is there a proper pattern every time a crime happens? If the answer is yes, it means there is a repeating pattern which can be present and there could be a way to prevent the next crime before it happens. In 2016, the violent crime rose in United States for the second consecutive year. Over previous years, this year the rate is increased by 4.1%. In Chicago, itself the reported murders last year was 765 in total, which is nationwide 22% increase.  Making this world a better place to live is the agenda of most of the communities. But I really want to step into the process and take a measure to help. The better understanding of the crime can be gained by identifying patterns that are responsible for that particular crime. 
-The aim of this project is to do model the time series data by applying various techniques in order to get the best fit model for the future predictions. We will be predicting the number of street crimes in Chicago for October and November 2016.<br />
+The aim of this project is to do model the time series data by applying various techniques in order to get the best fit model for the future predictions. We will be predicting the number of street crimes in Chicago for October and November 2016<br />
 
 ## 2.	Data Sets
 I got the data from Kaggle: https://www.kaggle.com/umeshnarayanappa/forecasting-chicago-	crimes-2017-2020/data
